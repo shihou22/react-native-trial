@@ -17,6 +17,7 @@
  - If you don't install aws-amplify
     npm install -g @aws-amplify/cli
  - If you want to confirm this sample
+  - amplify init
   - amplify add api
    - api gateway
    - lambda
